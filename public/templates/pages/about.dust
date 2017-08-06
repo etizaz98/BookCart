@@ -1,0 +1,50 @@
+{>"layouts/master" /}
+
+
+{<body}
+<div class="row">
+<div class="large-12 columns">
+
+
+<div class="row">
+<div class="large-4 columns">
+<h2>About Us</h2>
+To pursue a successful career in software development. Offering expertise in object oriented languages in order to develop above-par software applications and underlying systems.
+Responsible for server-side web application logic using Node.js, also worked as 
+Front-end developer .Built themes and templates using jQuery, JavaScript, HTML5, CSS3 and 
+Bootstrap
+
+	
+</div>
+
+<div class="large-4 columns">
+<h2>About Us</h2>
+To pursue a successful career in software development. Offering expertise in object oriented languages in order to develop above-par software applications and underlying systems.
+Responsible for server-side web application logic using Node.js, also worked as 
+Front-end developer .Built themes and templates using jQuery, JavaScript, HTML5, CSS3 and 
+Bootstrap
+
+	
+</div>
+
+<div class="large-4 columns">
+<h2>About Us</h2>
+To pursue a successful career in software development. Offering expertise in object oriented languages in order to develop above-par software applications and underlying systems.
+Responsible for server-side web application logic using Node.js, also worked as 
+Front-end developer .Built themes and templates using jQuery, JavaScript, HTML5, CSS3 and 
+Bootstrap
+
+	
+</div>
+
+
+
+
+
+	
+
+</div>
+
+
+</div>
+{/body}

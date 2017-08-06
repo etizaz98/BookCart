@@ -1,0 +1,16 @@
+{>"layouts/master" /}
+
+{<body}
+   <div class="large-3 columns book">
+   <img src="/img/1.jpg">
+   <h4>Professional Node.js</h4>
+   <p>To replace tip text with your own, just select a line of text and start typing. For best results when selecting text to copy or replace, don’t include space to the right of the characters in your selection.</p>
+   <div class="price">Buy it for <span>$19.99</span></div>
+   <br>
+   <a href="/books/details/1" class="button small">Book Details</a>
+
+
+
+   </div>
+
+{/body}
